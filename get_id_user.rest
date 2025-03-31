@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/user/4
+Content-Type: application/json
